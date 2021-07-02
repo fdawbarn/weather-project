@@ -31,6 +31,10 @@ h3 {
   color: #40a8c4;
   font-weight: lighter;
 }
+h6 {
+  font-family: "Raleway", sans-serif;
+  color: #40a8c4;
+}
 .card-text {
   text-align: center;
   color: #235784;
