@@ -1,0 +1,56 @@
+h1 {
+  font-family: "Raleway", sans-serif;
+
+  color: #40a8c4;
+  padding-top: 20px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.form-group {
+  font-family: "Raleway", sans-serif;
+  width: 100%;
+}
+.sun-icon {
+  color: #f6e4ad;
+  font-size: 50px;
+}
+.card-body {
+  text-align: center;
+  color: #235784;
+}
+h4 {
+  text-align: center;
+  color: #235784;
+}
+span {
+  text-align: center;
+  color: #235784;
+}
+h3 {
+  font-family: "Raleway", sans-serif;
+  color: #40a8c4;
+  font-weight: lighter;
+}
+.card-text {
+  text-align: center;
+  color: #235784;
+}
+.card-title {
+  text-align: center;
+  color: #235784;
+}
+.cloud-icon {
+  color: #ececec;
+  text-align: center;
+  font-size: 40px;
+}
+.cloudsun-icon {
+  color: #ececec;
+  text-align: center;
+  font-size: 40px;
+}
+.sunny-icon {
+  color: #f6e4ad;
+  text-align: center;
+  font-size: 40px;
+}
